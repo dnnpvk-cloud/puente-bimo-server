@@ -1,0 +1,9 @@
+{
+  "name": "puente-bimo-server",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^0.1.1",
+    "google-tts-api": "^2.0.2"
+  }
+}
